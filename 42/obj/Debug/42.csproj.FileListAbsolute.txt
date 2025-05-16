@@ -1,0 +1,7 @@
+D:\Project\42\bin\Debug\42.exe.config
+D:\Project\42\bin\Debug\42.exe
+D:\Project\42\bin\Debug\42.pdb
+D:\Project\42\obj\Debug\42.csproj.AssemblyReference.cache
+D:\Project\42\obj\Debug\42.csproj.CoreCompileInputs.cache
+D:\Project\42\obj\Debug\42.exe
+D:\Project\42\obj\Debug\42.pdb
